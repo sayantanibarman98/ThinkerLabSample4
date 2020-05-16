@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450931396245",
+    "firebase_url": "https://thinkerlab-54e00.firebaseio.com",
+    "project_id": "thinkerlab-54e00",
+    "storage_bucket": "thinkerlab-54e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450931396245:android:f87ea01b8d88980c8d159c",
+        "android_client_info": {
+          "package_name": "com.example.thinkerlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450931396245-b7pb1bqtdmkgssn4h1aed4ic9t9itohi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHnPR8vyAK-Q8lxPxXJQ747zWOHzga_nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450931396245-b7pb1bqtdmkgssn4h1aed4ic9t9itohi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
